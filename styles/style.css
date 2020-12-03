@@ -1,0 +1,134 @@
+body{
+    background-color:  #E5E5E5;
+}
+.logo{
+padding-left: 120px;
+}
+.navbar-list{
+ padding-right: 115px;   
+}
+.navbar img{
+    width: 40px;
+}
+main{
+    width: 870px;
+    background-color: white;
+    margin: auto;
+}
+.top-player img{
+    width: 56px;
+
+
+}
+.top-player{
+    font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.top-blogs img{
+    width: 170px;
+    height: 117px;
+    
+}
+.courses{
+    width: 870px;
+    background-color: white;
+    
+    
+}
+.courses img{
+    width: 222px;
+
+}
+.course{
+    
+    width: 252.4232177734375px;
+    
+    border-radius: 0px;
+    box-shadow: thistle;
+}
+    
+
+.courseheadline{
+ 
+
+    /* Powerpoint 2020 */
+
+
+
+font-style: normal;
+font-weight: 500;
+font-size: 20.0336px;
+line-height: 23px;
+
+color: #1E1E1E;
+}
+.ratting-section{
+    height: 100px;
+    width: 100%;
+    
+}
+.rating-img{
+    display: inline-flex;
+   
+     height: 15.808539390563965px;
+width: 74.75873565673828px;
+margin-top: 7px;
+
+}
+.rating-img img{
+   
+    height: 11.808359146118164px;
+    width: 12.387434959411621px;
+  
+}
+   
+.ratting{
+   padding-top: 2px;
+   font-size: 14.5px;
+   color: #A2A2A2;
+
+}
+  
+    
+.duration img{
+    height: 20.033588409423828px;
+width: 20.033588409423828px;
+
+
+}
+.duration {
+    /* display: inline-flexbox; */
+    width: 105px;
+  
+    background: #FFE4E8;
+    border-radius: 14.6913px;
+    height: 29.382596969604492px;
+
+
+
+
+
+}
+.duration p{
+    
+    font-family: Open Sans;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0em;
+
+
+
+/* #FF4A60 */
+
+color: #FF4A60;
+
+
+}
